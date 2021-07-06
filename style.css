@@ -91,6 +91,12 @@ h5{
         box-shadow: 10px 10px 25px rgb(139, 137, 137);
         border-radius: 20px;
 }
+.coments{
+    height: 400px;
+    text-align: center;
+    background-color: aqua;
+    padding-top: 5%;
+}
 .box2{
     width: 16%;
     margin:1% 2% ;
@@ -101,7 +107,7 @@ h5{
     height: 60%;
     background-color: white;
     border-left: 7px solid ;
-    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image: linear-gradient(180deg,cyan,blue);
     border-image-slice: 1;
     
 }
