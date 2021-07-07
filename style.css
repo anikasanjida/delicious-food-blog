@@ -14,7 +14,7 @@ h1{
 h3{
     font-size: 20px ;
 }
-h5{
+h4{
     font-size: 15px;
     color: grey;
 }
@@ -24,6 +24,8 @@ h5{
     margin-left: 5%;
     padding-left: 3%;
     margin-right: 5%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
 }
 .half-part img{
     width: 75%;
@@ -125,11 +127,12 @@ h5{
 footer{
     background-color:navajowhite;
     padding: 15px 0px;
+    text-align: center;
 }
 
 .foot{
 color: tomato;
-text-align: center;
+
 
 }
 .textp{
