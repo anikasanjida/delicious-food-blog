@@ -114,3 +114,25 @@ h5{
 .box2 h3{
     padding-top: 2%;
 }
+.service{
+    width: 30%;
+    height: 400px;
+    padding: 2%;
+    margin: 3% 5%;
+    box-shadow: 10px 10px 25px rgb(124, 123, 123);
+        text-align: center;
+}
+footer{
+    background-color:navajowhite;
+    padding: 15px 0px;
+}
+
+.foot{
+color: tomato;
+text-align: center;
+
+}
+.textp{
+    color: rgb(71, 66, 66);
+    text-align: center;
+}
